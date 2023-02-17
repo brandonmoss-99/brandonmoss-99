@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonmoss-99&count_private=true&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonmoss-99&count_private=true&show_icons=true&theme=radical&hide_border=true)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brandonmoss-99&theme=radical&layout=compact)
 
 <!--
 **brandonmoss-99/brandonmoss-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
